@@ -13,7 +13,7 @@ Skills: JS / HTML / CSS
 
 
 #### My Social Networks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/>
+<a href="https://www.linkedin.com/in/jackson-alves-182-/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/></a>
 
 
 
