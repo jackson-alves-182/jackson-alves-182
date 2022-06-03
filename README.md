@@ -4,7 +4,7 @@
 Skills: JS / HTML / CSS
 
 
-- 🔭 I’m currently working on <a href="https://tinyurl.com/4ppkej5z">Figma - OrdoSolis </a>
+- 🔭 I’m currently working on <a href="https://tinyurl.com/4ppkej5z">Figma - OrdoSolis </a> and <a href="https://reddit-copy-nine.vercel.app"> Reddit Copy </a> 
 - 🌱 I’m currently learning Node.Js / JS / HTML / CSS 
 
 
