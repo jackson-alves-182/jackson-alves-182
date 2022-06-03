@@ -19,7 +19,7 @@
 
 #### Contact
 <a href="https://www.linkedin.com/in/jackson-alves-182-/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/></a> <a href="https://codepen.io/jacksondeft182">
-    <div display="flex"><img src="https://img.icons8.com/color/344/ms-outlook.png" width="50px"> jack182@outlook.com.br</div>
+    <div display="flex" flex-direction="column"><img src="https://img.icons8.com/color/344/ms-outlook.png" width="50px"> jack182@outlook.com.br</div>
 
 
 
