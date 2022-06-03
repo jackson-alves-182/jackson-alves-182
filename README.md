@@ -4,7 +4,8 @@
 
 - Skills:
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" />
+
 
 
 - 🔭 I’m currently working on <a href="https://tinyurl.com/4ppkej5z">Figma - OrdoSolis </a> and <a href="https://reddit-copy-nine.vercel.app"> Reddit Copy </a> 
@@ -21,4 +22,4 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackson-alves-182&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-alves-182&layout=Demo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackson-alves-182&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-alves-182&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
