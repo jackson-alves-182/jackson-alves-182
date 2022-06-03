@@ -1,6 +1,6 @@
 
-### Jackson Alves
-###### Full Stack Developer (Student)
+### Hi there, I'm Jackson Alves
+##### Full Stack Developer (Student)
 
 - Skills:
 
