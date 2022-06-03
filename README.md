@@ -10,7 +10,8 @@
 - 🔭 I’m currently working on <a href="https://tinyurl.com/4ppkej5z">Figma - OrdoSolis </a> and <a href="https://reddit-copy-nine.vercel.app"> Reddit Copy </a> 
 - 🌱 I’m currently learning:
   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
+
 
 
 
