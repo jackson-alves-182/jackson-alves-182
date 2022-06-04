@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Jackson Alves
 
-I'm Jackson, a Full Stack Web Developer Student from Brazil, 
+A Full Stack Web Developer Student from Brazil, 
 who after a couple years far from studies,
  found again his love for study and learn,
  after watching a live on youtube from <a href="https://www.rocketseat.com.br"> Rockeseat <img src="https://github.com/jackson-alves-182/jackson-alves-182/blob/master/external-link.svg" width="15px"></a>, 
