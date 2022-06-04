@@ -3,10 +3,10 @@
 ### Full Stack Developer (Student)
 
 #### About me
-I'm Jackson a Full Stack Web Developer Student from Brazil, 
+I'm Jackson, a Full Stack Web Developer Student from Brazil, 
 who after a couple years far from studies, found again his
 love for study and learn after watching a live on youtube,
-from Rockeseat, showing how to build a website from scratch.
+from <a href="https://www.rocketseat.com.br">Rockeseat</a>, showing how to build a website from scratch.
 And now besides learning the codding part, i'm determined to
 improve my social and writing skills, that is something
 that i always dreamed of but never felt capable, until 
