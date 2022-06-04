@@ -31,11 +31,10 @@ now that this passion has returned.
 #### Contact
 <a href="https://www.linkedin.com/in/jackson-alves-182-/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/></a>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackson-alves-182&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-alves-182&layout=compact&show_icons=true&theme=radical&card_width=444px)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackson-alves-182&show_icons=true&theme=radical" />
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-alves-182&layout=compact&show_icons=true&theme=radical&card_width=444px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-alves-182&layout=compact&show_icons=true&theme=radical" height="195px"/>
 </a>
