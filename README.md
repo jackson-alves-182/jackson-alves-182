@@ -32,8 +32,8 @@ now that this passion has returned.
 <a href="https://www.linkedin.com/in/jackson-alves-182-/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackson-alves-182&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackson-alves-182&show_icons=true&theme=radical" width="400px" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-alves-182&layout=compact&show_icons=true&theme=radical" height="195px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-alves-182&layout=compact&show_icons=true&theme=radical" width="334px"/>
 </a>
