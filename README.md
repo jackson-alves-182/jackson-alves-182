@@ -10,7 +10,7 @@ showing how to build a website from scratch.
 And now besides learning the coding part, i'm determined to
 improve my social and writing skills, that is something
 that i always considered but never felt capable of, until
-now that this passion has returned.
+now.
 
 ### Full Stack Developer (Student)
 
